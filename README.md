@@ -1,3 +1,10 @@
+v.M02.100724.Se Implementa Scroll Automático de Labels de Entradas!
+             Se Evita que la app inicie si no hay fuentes de Audio en el Sistema.
+             Se Documenta, Depura, Resume y Minimiza el Código en Parte.
+             Se Implementa menú de configuración/esquema de colores
+
+-----------------------
+
 Funcionalidad Principal:
 Controlar el volumen de todas las fuentes de audio disponibles en el sistema
 mediante paneles independientes en una app minimalista.
