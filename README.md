@@ -17,10 +17,12 @@ v.M02.100724.Se Implementa Scroll Automático de Labels de Entradas!
 -----------------------
 
 Funcionalidad Principal:
+
 Controlar el volumen de todas las fuentes de audio disponibles en el sistema
 mediante paneles independientes en una app minimalista.
 
 Funcionalidades:
+
 Enumera las fuentes de audio disponibles (aplicaciones que utilizan audio).
 
 Crea paneles para cada fuente con:
