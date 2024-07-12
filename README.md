@@ -21,6 +21,7 @@ Funcionalidad Principal:
 Controlar el volumen de todas las fuentes de audio disponibles en el sistema
 mediante paneles independientes en una app minimalista.
 
+-----------------------
 
 Funcionalidades:
 
